@@ -1,4 +1,5 @@
 import pendulum
+import sqlalchemy
 metai = int(input("Metai: "))
 menuo = int(input("Mėnuo: "))
 diena = int(input("Diena: "))
